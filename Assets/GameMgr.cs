@@ -9,4 +9,9 @@ public class GameMgr : MonoBehaviour
     {
         // do something...
     }
+
+    public void ResetGameState()
+    {
+        // do reset thingy
+    }
 }

@@ -4,15 +4,8 @@ using UnityEngine;
 
 public class GameMgr : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public void InitGameState()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        // do something...
     }
 }

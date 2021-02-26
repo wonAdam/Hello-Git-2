@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class GameMgr : MonoBehaviour
 {
+    [SerializeField] GameObject[] manangers;
     public void InitGameState()
     {
         // do something...
